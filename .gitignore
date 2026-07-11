@@ -1,0 +1,13 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# PyCharm files
+.idea/
+
+# Photoshop files
+*.psd
+.DS_Store
