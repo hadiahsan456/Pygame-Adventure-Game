@@ -24,5 +24,4 @@ Run:
 
 python main.py
 
-## Screenshots
-(add screenshots)
+
